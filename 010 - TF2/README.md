@@ -15,6 +15,8 @@ license: mit
 Aplicación web que clasifica imágenes de residuos en distintas categorías (plástico, papel, metal, vidrio, cartón, etc.) 
 utilizando un modelo Vision Transformer (ViT) preentrenado, disponible en Hugging Face Hub: https://huggingface.co/watersplash/waste-classification.
 
+Demo de la propuesta: https://huggingface.co/spaces/halurodeag/clasificador_residuos
+
 ## Cómo funciona
 
 1. El usuario sube una foto de un residuo.
